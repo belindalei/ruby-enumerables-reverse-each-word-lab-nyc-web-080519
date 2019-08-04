@@ -6,3 +6,7 @@ def reverse_each_word(string)
   end 
   reverse = reverse[0...-1] 
 end 
+
+def reverse_each_word(string)
+
+end 
